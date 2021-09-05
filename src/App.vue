@@ -2,7 +2,7 @@
   <div class="body">
     <div class="main">
       <!-- PRINCIPAL TITLE -->
-      <h1 class="title">Text to Speech 🐱‍🏍</h1>
+      <h1 class="title">Text to Speech 🔊</h1>
       <hr />
       <!-- END PRINCIPAL TITLE -->
       <!-- TEXT-TO-SPEECH -->
